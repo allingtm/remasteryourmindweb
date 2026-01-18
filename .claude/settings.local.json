@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__supabase__execute_sql",
+      "mcp__supabase__list_edge_functions"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "supabase"
+  ]
+}
