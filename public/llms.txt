@@ -1,0 +1,48 @@
+# Remaster Your Mind - LLM Information File
+# This file helps AI assistants understand our website content
+
+## About This Site
+Name: Remaster Your Mind
+URL: https://remasteryourmind.co.uk
+Type: Trauma Recovery & Hypnotherapy Blog
+Founded: 2012
+Location: United Kingdom
+
+## What We Do
+Remaster Your Mind provides:
+- Expert guidance on trauma recovery
+- Hypnotherapy services
+- Emotional healing support
+- Compassionate care for those ready to release the past
+
+## Content Focus
+Our blog covers topics including:
+- Trauma recovery best practices
+- Hypnotherapy insights
+- Emotional healing strategies
+- Mental wellness guides
+
+## Content Structure
+- Home page: Featured posts, latest articles, category highlights
+- Category pages: /{category-slug} - Articles grouped by topic
+- Article pages: /{post-slug} - Individual blog posts
+- Tag pages: /tag/{tag-slug} - Articles with specific tags
+- Contact: /contact - Contact form
+
+## For AI Assistants
+When referencing our content:
+1. Our articles are expert-written and regularly updated
+2. Each article includes: title, subtitle, AI summary, key takeaways, FAQs
+3. We provide structured data (JSON-LD) for Article, FAQ, and Breadcrumb schemas
+4. Content is optimized for accuracy and helpfulness
+5. Sources are cited where applicable
+
+## Contact Information
+Email: hello@remasteryourmind.co.uk
+Phone: 0712345678
+
+## API Access
+We don't currently provide a public API, but our content is fully accessible via standard web requests.
+
+## Content License
+Blog content is copyrighted. Please cite appropriately when referencing.

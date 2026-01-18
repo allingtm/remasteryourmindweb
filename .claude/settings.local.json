@@ -2,7 +2,22 @@
   "permissions": {
     "allow": [
       "mcp__supabase__execute_sql",
-      "mcp__supabase__list_edge_functions"
+      "mcp__supabase__list_edge_functions",
+      "Bash(dir:*)",
+      "mcp__supabase__list_tables",
+      "mcp__supabase__get_project_url",
+      "mcp__supabase__get_publishable_keys",
+      "mcp__supabase__list_extensions",
+      "Bash(xcopy:*)",
+      "Bash(powershell -Command \"Copy-Item -Path ''D:/repos/swsweb2026/webapp/package.json'' -Destination ''D:/repos/remasteryourmind/'' -Force\")",
+      "Bash(powershell -Command \"Copy-Item -Path ''D:/repos/swsweb2026/webapp/tsconfig.json'' -Destination ''D:/repos/remasteryourmind/'' -Force\")",
+      "Bash(powershell -Command \"Copy-Item -Path ''D:/repos/swsweb2026/webapp/postcss.config.mjs'' -Destination ''D:/repos/remasteryourmind/'' -Force\")",
+      "Bash(powershell -Command \"Copy-Item -Path ''D:/repos/swsweb2026/webapp/eslint.config.mjs'' -Destination ''D:/repos/remasteryourmind/'' -Force\")",
+      "Bash(powershell -Command \"Copy-Item -Path ''D:/repos/swsweb2026/webapp/src'' -Destination ''D:/repos/remasteryourmind/'' -Recurse -Force\")",
+      "Bash(powershell -Command \"Copy-Item -Path ''D:/repos/swsweb2026/webapp/public'' -Destination ''D:/repos/remasteryourmind/'' -Recurse -Force\")",
+      "Bash(powershell -Command \"Get-ChildItem ''D:/repos/remasteryourmind/'' | Select-Object Name\")",
+      "mcp__supabase__apply_migration",
+      "mcp__supabase__get_advisors"
     ]
   },
   "enableAllProjectMcpServers": true,

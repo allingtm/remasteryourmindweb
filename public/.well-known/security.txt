@@ -1,0 +1,10 @@
+# Security Policy for Remaster Your Mind
+# https://remasteryourmind.co.uk
+
+Contact: mailto:hello@remasteryourmind.co.uk
+Expires: 2026-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://remasteryourmind.co.uk/.well-known/security.txt
+
+# If you discover a security vulnerability, please report it to us responsibly.
+# We appreciate your help in keeping our users safe.

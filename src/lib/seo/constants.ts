@@ -1,0 +1,21 @@
+export const siteConfig = {
+  name: "Remaster Your Mind",
+  tagline: "[Your tagline here]",
+  heroTitle: "[Your hero title here]",
+  heroSubtitle: "[Your hero subtitle here]",
+  description: "[Your site description here]",
+  url: "https://www.remasteryourmind.com",
+  ogImage: "https://www.remasteryourmind.com/og-image.png",
+  twitterHandle: "@remasteryourmind",
+  email: "hello@remasteryourmind.com",
+  phone: "[Your phone]",
+  foundingDate: "2026",
+  keywords: [
+    "mental wellness",
+    "personal development",
+    "mindfulness",
+    "self improvement",
+    "mental health",
+    "wellbeing",
+  ],
+};

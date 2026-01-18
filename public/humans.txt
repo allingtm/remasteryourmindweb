@@ -1,0 +1,23 @@
+/* TEAM */
+Company: Remaster Your Mind
+Location: Colchester, Essex, UK
+Contact: hello@remasteryourmind.co.uk
+
+/* SITE */
+Last update: 2025-12-27
+Language: English
+Doctype: HTML5
+Standards: HTML5, CSS3, ES2022
+
+/* TECHNOLOGY */
+Framework: Next.js 16
+Language: TypeScript
+Styling: Tailwind CSS
+Database: PostgreSQL (Supabase)
+CMS: Custom Admin
+AI: OpenAI GPT-4o, DALL-E 3
+Hosting: Vercel
+CDN: Supabase Storage
+
+/* THANKS */
+Built with care for great SEO and AI discoverability.
