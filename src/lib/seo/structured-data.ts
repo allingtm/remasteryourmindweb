@@ -212,16 +212,16 @@ export function generateLocalBusinessSchema() {
     image: siteConfig.ogImage,
     address: {
       "@type": "PostalAddress",
-      streetAddress: "North Colchester Business Centre, 340 The Crescent",
-      addressLocality: "Colchester",
-      addressRegion: "Essex",
-      postalCode: "CO4 9AD",
+      streetAddress: "[ADDRESS]",
+      addressLocality: "[CITY]",
+      addressRegion: "[REGION]",
+      postalCode: "[POSTCODE]",
       addressCountry: "GB",
     },
     geo: {
       "@type": "GeoCoordinates",
-      latitude: 51.9227,
-      longitude: 0.9041,
+      latitude: 0,
+      longitude: 0,
     },
     openingHoursSpecification: [
       {

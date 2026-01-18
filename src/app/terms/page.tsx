@@ -10,7 +10,7 @@ import { siteConfig } from "@/lib/seo/constants";
 export const metadata: Metadata = generateSiteMetadata({
   title: "Terms & Conditions",
   description:
-    "Terms of Service, Acceptable Use Policy, Cookie Policy, and Project Work Terms & Conditions for Solve With Software Ltd.",
+    "Terms of Service, Acceptable Use Policy, Cookie Policy, and Project Work Terms & Conditions for Remaster Your Mind Ltd.",
   path: "/terms",
 });
 
@@ -62,17 +62,17 @@ export default async function TermsPage() {
               <p>
                 These Terms of Service govern your use of the website located at{" "}
                 <a href="https://remasteryourmind.co.uk">https://remasteryourmind.co.uk</a> and
-                any related services provided by Solve With Software Ltd.
+                any related services provided by Remaster Your Mind Ltd.
               </p>
               <p>
                 By accessing https://remasteryourmind.co.uk, you agree to abide by these Terms
                 of Service and to comply with all applicable laws and regulations. If you do
                 not agree with these Terms of Service, you are prohibited from using or
-                accessing this website or using any other services provided by Solve With
-                Software Ltd.
+                accessing this website or using any other services provided by Remaster Your
+                Mind Ltd.
               </p>
               <p>
-                We, Solve With Software Ltd, reserve the right to review and amend any of
+                We, Remaster Your Mind Ltd, reserve the right to review and amend any of
                 these Terms of Service at our sole discretion. Upon doing so, we will update
                 this page. Any changes to these Terms of Service will take effect immediately
                 from the date of publication.
@@ -126,14 +126,14 @@ export default async function TermsPage() {
               <h3>Intellectual Property</h3>
               <p>
                 The intellectual property in the materials contained in this website are owned
-                by or licensed to Solve With Software Ltd and are protected by applicable
+                by or licensed to Remaster Your Mind Ltd and are protected by applicable
                 copyright and trademark law. We grant our users permission to download one
                 copy of the materials for personal, non-commercial transitory use.
               </p>
               <p>
                 This constitutes the grant of a license, not a transfer of title. This license
                 shall automatically terminate if you violate any of these restrictions or the
-                Terms of Service, and may be terminated by Solve With Software Ltd at any
+                Terms of Service, and may be terminated by Remaster Your Mind Ltd at any
                 time.
               </p>
 
@@ -167,17 +167,17 @@ export default async function TermsPage() {
               <h3>Liability</h3>
               <p>
                 Our website and the materials on our website are provided on an &apos;as is&apos;
-                basis. To the extent permitted by law, Solve With Software Ltd makes no
+                basis. To the extent permitted by law, Remaster Your Mind Ltd makes no
                 warranties, expressed or implied, and hereby disclaims and negates all other
                 warranties including, without limitation, implied warranties or conditions of
                 merchantability, fitness for a particular purpose, or non-infringement of
                 intellectual property, or other violation of rights.
               </p>
               <p>
-                In no event shall Solve With Software Ltd or its suppliers be liable for any
+                In no event shall Remaster Your Mind Ltd or its suppliers be liable for any
                 consequential loss suffered or incurred by you or any third party arising from
                 the use or inability to use this website or the materials on this website,
-                even if Solve With Software Ltd or an authorised representative has been
+                even if Remaster Your Mind Ltd or an authorised representative has been
                 notified, orally or in writing, of the possibility of such damage.
               </p>
               <p>
@@ -197,7 +197,7 @@ export default async function TermsPage() {
               <h3>Accuracy of Materials</h3>
               <p>
                 The materials appearing on our website are not comprehensive and are for
-                general information purposes only. Solve With Software Ltd does not warrant or
+                general information purposes only. Remaster Your Mind Ltd does not warrant or
                 make any representations concerning the accuracy, likely results, or
                 reliability of the use of the materials on this website, or otherwise relating
                 to such materials or on any resources linked to this website.
@@ -205,10 +205,10 @@ export default async function TermsPage() {
 
               <h3>Links</h3>
               <p>
-                Solve With Software Ltd has not reviewed all of the sites linked to its
+                Remaster Your Mind Ltd has not reviewed all of the sites linked to its
                 website and is not responsible for the contents of any such linked site. The
-                inclusion of any link does not imply endorsement, approval or control by Solve
-                With Software Ltd of the site. Use of any such linked site is at your own risk
+                inclusion of any link does not imply endorsement, approval or control by Remaster
+                Your Mind Ltd of the site. Use of any such linked site is at your own risk
                 and we strongly advise you make your own investigations with respect to the
                 suitability of those sites.
               </p>
@@ -251,13 +251,13 @@ export default async function TermsPage() {
               <h2>Acceptable Use Policy</h2>
               <p>
                 This acceptable use policy covers the products, services, and technologies
-                (collectively referred to as the &quot;Products&quot;) provided by Solve With Software
+                (collectively referred to as the &quot;Products&quot;) provided by Remaster Your Mind
                 Ltd under any ongoing agreement. It&apos;s designed to protect us, our customers
                 and the general Internet community from unethical, irresponsible and illegal
                 activity.
               </p>
               <p>
-                Solve With Software Ltd customers found engaging in activities prohibited by
+                Remaster Your Mind Ltd customers found engaging in activities prohibited by
                 this acceptable use policy can be liable for service suspension and account
                 termination. In extreme cases, we may be legally obliged to report such
                 customers to the relevant authorities.
@@ -418,11 +418,11 @@ export default async function TermsPage() {
                 support the above such activities or causes.
               </p>
 
-              <h4>Unauthorised use of Solve With Software Ltd property</h4>
+              <h4>Unauthorised use of Remaster Your Mind Ltd property</h4>
               <p>
-                We prohibit the impersonation of Solve With Software Ltd, the representation
-                of a significant business relationship with Solve With Software Ltd, or
-                ownership of any Solve With Software Ltd property (including our Products and
+                We prohibit the impersonation of Remaster Your Mind Ltd, the representation
+                of a significant business relationship with Remaster Your Mind Ltd, or
+                ownership of any Remaster Your Mind Ltd property (including our Products and
                 brand) for the purpose of fraudulently gaining service, custom, patronage or
                 user trust.
               </p>
@@ -450,7 +450,7 @@ export default async function TermsPage() {
             <section id="disclaimer">
               <h2>Disclaimer</h2>
               <p>
-                Any information provided by Solve With Software Ltd on this website is for
+                Any information provided by Remaster Your Mind Ltd on this website is for
                 reference only. While we try to keep the information up to date and correct,
                 we make no representations or warranties of any kind, express or implied,
                 about the completeness, accuracy, reliability, suitability, or availability
@@ -464,9 +464,9 @@ export default async function TermsPage() {
             <section id="project-work-terms">
               <h2>Project Work Terms & Conditions</h2>
               <p>
-                These Terms and Conditions apply to the provision of the services by Solve
-                with Software Ltd, a company registered in England and Wales under number
-                08200237 whose registered office is at North Colbea Business Centre to the
+                These Terms and Conditions apply to the provision of the services by Remaster
+                Your Mind Ltd, a company registered in England and Wales under number
+                [COMPANY NUMBER] whose registered office is at [ADDRESS] to the
                 person buying the services (you)
               </p>
               <p>
@@ -488,7 +488,7 @@ export default async function TermsPage() {
                 <li>
                   A &quot;business day&quot; means any day other than a Saturday, Sunday or bank holiday
                   in England and Wales. Any work carried out on non-business days and
-                  non-business hours are at the discretion of Solve With Software Ltd.
+                  non-business hours are at the discretion of Remaster Your Mind Ltd.
                 </li>
                 <li>
                   The headings in these Terms and Conditions are for convenience only and do

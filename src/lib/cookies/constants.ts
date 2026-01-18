@@ -29,6 +29,6 @@ export const COOKIE_CATEGORIES: CookieCategory[] = [
   },
 ];
 
-export const COMPANY_NAME = "Solve With Software Ltd";
+export const COMPANY_NAME = "Remaster Your Mind Ltd";
 export const BANNER_TEXT =
   "We use cookies that help us provide you with the best possible experience with us. For example, they allow us to connect to social networks, display personalised content, as well as analyse and improve the operation of our website.";

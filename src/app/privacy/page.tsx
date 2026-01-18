@@ -10,7 +10,7 @@ import { siteConfig } from "@/lib/seo/constants";
 export const metadata: Metadata = generateSiteMetadata({
   title: "Privacy Policy",
   description:
-    "Privacy Policy for Solve With Software Ltd. Learn how we collect, use, and protect your personal information.",
+    "Privacy Policy for Remaster Your Mind Ltd. Learn how we collect, use, and protect your personal information.",
   path: "/privacy",
 });
 
@@ -30,7 +30,7 @@ export default async function PrivacyPolicyPage() {
 
             <p>
               We know your privacy is important. We are currently only collecting just
-              enough data to run the Solve With Software Ltd Website. For example, our
+              enough data to run the Remaster Your Mind Ltd Website. For example, our
               newsletter requires a First Name and Email address. Testimonial requires
               your testimonial, and Initialed name, and so on. We will always seek your
               permission before using your information for anything new - so you will
@@ -42,7 +42,7 @@ export default async function PrivacyPolicyPage() {
             </p>
 
             <p>
-              Your privacy is important to us. It is Solve With Software Ltd policy to
+              Your privacy is important to us. It is Remaster Your Mind Ltd policy to
               respect your privacy and comply with any applicable law and regulation
               regarding any personal information we may collect about you, including
               across our website,{" "}
@@ -462,7 +462,7 @@ export default async function PrivacyPolicyPage() {
               The GDPR distinguishes between organisations that process personal
               information for their own purposes (known as &quot;data controllers&quot;) and
               organizations that process personal information on behalf of other
-              organizations (known as &quot;data processors&quot;). We, Solve With Software Ltd,
+              organizations (known as &quot;data processors&quot;). We, Remaster Your Mind Ltd,
               located at the address provided in our Contact Us section, are a Data
               Controller and/or Processor with respect to the personal information you
               provide to us.
