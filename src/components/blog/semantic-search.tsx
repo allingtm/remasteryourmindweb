@@ -129,7 +129,7 @@ export function SemanticSearch({ className, onResultClick }: SemanticSearchProps
         <Input
           ref={inputRef}
           type="text"
-          placeholder="Ask a question like 'I need a mobile app'"
+          placeholder="Ask a question here..."
           value={query}
           onChange={handleInputChange}
           onFocus={() => query.length >= 3 && setIsOpen(true)}

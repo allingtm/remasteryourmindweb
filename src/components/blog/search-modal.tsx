@@ -158,7 +158,7 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
                 <Input
                   ref={inputRef}
                   type="text"
-                  placeholder="Ask a question like 'I need a mobile app'"
+                  placeholder="Ask a question here..."
                   value={query}
                   onChange={handleInputChange}
                   className="pl-10 pr-10 h-12 text-base"
